@@ -3,7 +3,7 @@ baseURL = "https://normalmedia.netlify.app"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
-paginate = "6"
+paginate = "8"
 # post excerpt
 summaryLength = "15"
 # disqus short name
