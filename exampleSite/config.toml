@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://normalmedia.netlify.app"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
@@ -78,8 +78,8 @@ weight = 7
 
 #### external / static link ####
 [[menu.static]]
-name = "Themefisher"
-URL = "https://themefisher.com/"
+name = ":)"
+URL = "https://danieljuan.com"
 weight = 8
 
 ############################# Default Parameters ##########################
