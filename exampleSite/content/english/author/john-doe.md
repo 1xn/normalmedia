@@ -11,5 +11,4 @@ social:
     link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+John Doe is one of those people that every company wants to have. He is useful and always in clever ways. So it follows that he would have a place here, with the 'others'.
