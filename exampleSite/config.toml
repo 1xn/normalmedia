@@ -141,11 +141,20 @@ weight = 1
 home = "Home"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
 
-################################ France Language ########################
+################################ Spanish Language ########################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-es"
+contentDir = "content/french"
+weight = 2
+home = "Inicio"
+copyright = "copyright &copy; 2019 [gethugothemes] (https://gethugothemes.com) derechos reservados"
+
+################################ French Language ########################
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 3
 home = "Accueil"
-copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
+copyright = "copyright &copy; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
