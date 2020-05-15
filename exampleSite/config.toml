@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://normalmedia.netlify.app"
-title = "Meghna"
-theme = "meghna-hugo"
+title = "Normal Mediao"
+theme = "normalmedia"
 # post pagination
 paginate = "8"
 # post excerpt
